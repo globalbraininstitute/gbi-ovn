@@ -48,7 +48,7 @@ subtitle: Bootstrapping the GBI Open Value Network
 * We want both conceptual guidance and unconstrained experimentation:
   ![Knowledge exchange](pictures/knowledge_exchange_small.png)
 
-<button class="notesButton" onclick="toggleNotes()">P</button> 
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
 <div class="notes">
 - There is loose connection between areas;
 - Knowledge flows openly both bottom up and top down;
@@ -92,7 +92,7 @@ Lean startup methodology
  ([OVN Initiative](http://cargo.notthisbody.com/Open-Value-Networks))
 </div>
 
-<button class="notesButton" onclick="toggleNotes()">P</button> 
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
 <div class="notes">
 * No need to present these concepts in full - will only introduce aspects which are relevant to GBI-OVN..
 </div>
@@ -117,6 +117,7 @@ Lean startup methodology
 ```
 </div>
 
+<button class="stepButton" onclick="toggleStep()">steps</button> 
 <script>
 ```{r child = 'pictures/lean_startup_process/script.js'}
 ```

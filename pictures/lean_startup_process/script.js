@@ -11,8 +11,7 @@ animateback = function() {
 
 <script>
 var counter=0;
-document.onkeypress=function(e) {
-    if(e.which == 13) {
+function toggleStep() {
         counter++;
         switch (counter) {
         case 1:
@@ -62,7 +61,6 @@ document.onkeypress=function(e) {
         default:
           //Statements executed when none of the values match the value of the expression
           break;
-      }
     }
 };
 
