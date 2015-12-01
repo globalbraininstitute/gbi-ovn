@@ -1,0 +1,135 @@
+---
+title: "GBI-OVN"
+author: "Viktoras Veitas (GBI)"
+date: "December 4, 2015"
+output:
+  ioslides_presentation:
+    mathjax: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    css: styles.css
+    incremental: no
+    fig_width: 1
+    fig_height: 1
+    fig_caption: true
+subtitle: Bootstrapping the GBI Open Value Network
+---
+
+## Outline
+
+1. Guiding principles
+1. Conceptual basis
+1. Proposal
+1. GBI-OVN
+
+# Motivation
+
+## Why?
+
+* We want to collaborate on researching and implementing our visions;
+    * We want this collaboration to be free of constraints on which vision and how we should pursue individually;
+    * Yet, our individual work should contribute to the overall vision and draw inspiration / ideas / knowledge from others;
+  
+* This does not go easy:
+    * We have a number of projects (both internally and externally) which revolve around the same ideas yet are somewhat isolated:
+        * Challange propagation, chemical organization theory, offer networks, FutureICT, Computing in the Web, Holomidal Collective Intelligence, Ceptr, etc...
+
+## What?
+
+* Combine two kinds of thinking:
+    * Conceptual guidance (philosophers, scientists, theoreticians, ...);
+    * Unconstrained experimentation (entrepreneurs, hackers, developers, ...);
+
+<div class="columns-2" style="width:850px;">
+   ![Conceptual guidance](pictures/conceptual_guidance_small.png)
+   ![Unconstrained experimentation](pictures/unconstrained_experimentation.png)
+</div>
+
+## Knowledge flows
+
+* We want both conceptual guidance and unconstrained experimentation:
+  ![Knowledge exchange](pictures/knowledge_exchange_small.png)
+
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
+<div class="notes">
+- There is loose connection between areas;
+- Knowledge flows openly both bottom up and top down;
+- Forms 'value chains';
+- Chains can be started in any area;
+- Some projects / initiatives will not get connected to chains...
+</div>
+
+## Purpose
+
+* Create more value via collaboration:
+    * Connect the areas without constraining activities within them;
+    * Attract people who are doing relevant research for sharing;
+* Distribute the created value among participants;
+
+## How? {.build}
+
+<div class="centered" style="font-size:110%;font-weight:bold;">
+GBI Open Value Network 
+<br/>
+([GBI-OVN](https://ovn.globalbraininstitute.org))
+</div>
+
+<div class="centered">
+<img src="pictures/equal.jpeg" height=30px>
+</div>
+
+<div class="centered" style="font-size:110%;font-weight:bold;">
+Lean startup methodology
+<br/>
+([Lean startup](https://en.wikipedia.org/wiki/Lean_startup))
+</div>
+
+<div class="centered">
+<img src="pictures/plus.png" height=30px>
+</div>
+
+<div class="centered" style="font-size:110%;font-weight:bold;">
+ Open Value Networks paradigm
+ <br/>
+ ([OVN Initiative](http://cargo.notthisbody.com/Open-Value-Networks))
+</div>
+
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
+<div class="notes">
+* No need to present these concepts in full - will only introduce aspects which are relevant to GBI-OVN..
+</div>
+
+# Lean startup <br/>methodology
+
+## Define $\rightarrow$ learn $\rightarrow$ experiment loop {.build}
+
+<div class="centered">
+<img src="pictures/lean_startup_methodology.png" width=750px>
+</div>
+
+## Executing the loop
+
+<head>
+<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+<script src="jquery-1.11.3.min.js"></script>
+</head>
+
+<div class="centered">
+```{r child = 'pictures/lean_startup_process/lean_startup_process.svg'}
+```
+</div>
+
+<button class="stepButton" onclick="toggleStep()">steps</button> 
+<script>
+```{r child = 'pictures/lean_startup_process/script.js'}
+```
+</script>
+
+
+
+# Open Value <br/>Networks
+
+<script>
+function toggleNotes() {
+    document.body.classList.toggle('with-notes');
+}
+</script>
+
