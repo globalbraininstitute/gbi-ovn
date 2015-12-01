@@ -1,26 +1,17 @@
-.main_block {
-    width: 800px;
-    border: 2px black solid;
-}
-
-.main_block: before, .main_block: after {
-    overflow: hidden;
-    content: "";
-    display: table;
-}
-
-.main_block: after {
-    clear: both;
-}
-
-.inner_block {
-    display: inline-block;
-    float: left;
-    width: 50%;
-}
-
-.inner_block img {
-    width: 100%;
-    height: auto;
-    vertical-align: middle;
+.notesButton {
+	background-color:#6d6b6b;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:14px;
+	padding:5px 15px;
+	text-decoration:none;
+	position: absolute;
+  	top: 15px;
+  	right: 20px;
 }
