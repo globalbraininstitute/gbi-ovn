@@ -204,6 +204,33 @@ function toggleNotes() {
 
 <button class="notesButton" onclick="toggleNotes()">notes</button> 
 <div class="notes">
-A proposal for bootstrapping the development of GBI Open Value Network
+A proposal for bootstrapping the development of GBI Open Value Network as a long term programme. 
+
+First steps:
+
+<ul>
+<li>Definition of the structure of the network;</li>
+<li>Creation of medium for cooperation;</li>
+</ul>
+
 </div>
 
+## Structure of the network
+
+
+## Medium for cooperation
+
+## Further steps
+
+* Acknowledge the shared understanding;
+* Define the project's governance;
+* Outline foreseeable scope of work required for the project;
+* Build, collaborate, suggest, search, integrate, experiment...
+
+## Vision
+
+<div style="font-size:120%">
+GBI-OVN is a value (scientific, monetary, otherwise) creation, sharing and distribution network based on the synergy of internal and external resources and people towards developing The Global Brain theory and technologies. 
+
+The network guides the self-organization of diverse expertise, knowledge, resources and financial sources (EU funds, commercial projects and philantropy), people and ideas sharing the same broad vision.
+</div>
