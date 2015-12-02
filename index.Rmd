@@ -99,7 +99,7 @@ Lean startup methodology
 
 # Lean startup <br/>methodology
 
-## Define $\rightarrow$ learn $\rightarrow$ experiment loop {.build}
+## Define $\rightarrow$ experiment $\rightarrow$ learn loop {.build}
 
 <div class="centered">
 <img src="pictures/lean_startup_methodology.png" width=750px>
@@ -117,12 +117,47 @@ Lean startup methodology
 ```
 </div>
 
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
+<div class="notes">
+* The movement through the loop should be as fast as possible (the concept of MVP);
+* But **not** faster than needed to facilitate learning; 
+</div>
+
 <button class="stepButton" onclick="toggleStep()">steps</button> 
 <script>
 ```{r child = 'pictures/lean_startup_process/script.js'}
 ```
 </script>
 
+## Principles
+
+<div class="right">
+```{r child = 'pictures/lean_startup_process/lean_learning.svg'}
+```
+</div>
+
+
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
+<div class="notes">
+We see:
+
+<ul>
+<li>a layered process;</li>
+<li>separation between layers;</li>
+<li>define $\rightarrow$ experiment $\rightarrow$ learn <br/>loop connects them;</li>
+<li>can be generalized to any number of layers;</li>
+</ul>
+
+Interdisciplinary research environment:
+
+<ul>
+<li>more exploration;</li>
+<li>more diverse areas of inquiry;</li>
+<li>connections are not obvious;</li>
+<li>how to do large scale collaborations?</li>
+</ul>
+
+</div>
 
 
 # Open Value <br/>Networks
