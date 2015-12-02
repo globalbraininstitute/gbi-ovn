@@ -129,7 +129,7 @@ Lean startup methodology
 ```
 </script>
 
-## Principles
+## A closer look
 
 <div class="right">
 ```{r child = 'pictures/lean_startup_process/lean_learning.svg'}
@@ -148,7 +148,7 @@ We see:
 <li>can be generalized to any number of layers;</li>
 </ul>
 
-Interdisciplinary research environment:
+Interdisciplinary research environments:
 
 <ul>
 <li>more exploration;</li>
@@ -159,12 +159,51 @@ Interdisciplinary research environment:
 
 </div>
 
-
 # Open Value <br/>Networks
+
+## Framework for open collaboration...
+
+* Allows for:
+    * Co-creation of value through large-scale collaboration;
+    * Distribution of value where it is needed;
+
+* Via:
+    * 'Stigmergic' and 'directed' resource sharing (incl. knowledge) among diverse initiatives and sub-communities;
+    * Self-organization of <strong>"value synapses"</strong> (as contrasted with definition of value chains);
+    * Trust, implicit and explicit partnership agreements;
+    * Governance paradigm for loosely defined initiatives;
+    
+
+## 
+
+<div class="centered">
+<img src="pictures/open_value_networks/ovn_initiative_picture.png" height=560px>
+</div>
+
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
+<div class="notes">
+<img src="pictures/lean_startup_process/lean_value_synapse.png" height=350px>
+</div>
 
 <script>
 function toggleNotes() {
     document.body.classList.toggle('with-notes');
 }
 </script>
+
+## Applicability
+
+* Open Value Networks is a general framework;
+* It reveals its power (and actually is created) via pilot projects, e.g.:
+    * Sensorica.co [http://www.sensorica.co/](http://www.sensorica.co/) - open hardware network;
+    * Metamaps.cc [http://metamaps.cc/](http://metamaps.cc/)
+    * ...?
+* There is no ready-made solution, but many tools, approaches and guidelines which should be adapted to specific circumstances;
+
+# GBI-OVN
+
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
+<div class="notes">
+A proposal for bootstrapping the development of GBI Open Value Network
+</div>
 
