@@ -154,7 +154,7 @@ Interdisciplinary research environments:
 <li>more exploration;</li>
 <li>more diverse areas of inquiry;</li>
 <li>connections are not obvious;</li>
-<li>how to do large scale collaborations?</li>
+<li>how to facilitate large scale collaborations?</li>
 </ul>
 
 </div>
