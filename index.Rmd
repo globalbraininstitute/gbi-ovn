@@ -196,9 +196,9 @@ function toggleNotes() {
 * Open Value Networks is a general framework;
 * It reveals its power (and actually is created) via pilot projects, e.g.:
     * Sensorica.co [http://www.sensorica.co/](http://www.sensorica.co/) - open hardware network;
-    * Metamaps.cc [http://metamaps.cc/](http://metamaps.cc/)
+    * Metamaps.cc [http://metamaps.cc/](http://metamaps.cc/) - real-time sense-making software;
     * ...?
-* There is no ready-made solution, but many tools, approaches and guidelines which should be adapted to specific circumstances;
+* There are no ready-made solutions, but many tools, approaches and guidelines which should be adapted to specific circumstances;
 
 # GBI-OVN
 

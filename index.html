@@ -430,11 +430,11 @@ steps
 <script>
 
 animate = function() {
- d3.select(this).transition().duration(1500)
+ d3.select(this).transition().duration(500)
    .attr("fill", "red");
 }    
 animateback = function() {
- d3.select(this).transition().duration(1)
+ d3.select(this).transition().duration(500)
    .attr("fill", "white");
 }
 
@@ -446,45 +446,45 @@ function toggleStep() {
         counter++;
         switch (counter) {
         case 1:
-          d3.select("#circle56").transition().duration(1000)
+          d3.select("#circle56").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
         case 2:
-          d3.select("#circle50").transition().duration(1000)
+          d3.select("#circle50").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
         case 3:
-          d3.select("#circle44").transition().duration(1000)
+          d3.select("#circle44").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
         case 4:
-          d3.select("#circle50").transition().duration(1000)
+          d3.select("#circle50").transition().duration(400)
               .attr("fill", "red").each("end", animateback);
-          d3.select("#circle50").transition().duration(1000)
+          d3.select("#circle50").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
         case 5:
-          d3.select("#circle38").transition().duration(1000)
+          d3.select("#circle38").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
         case 6:
-            d3.select("#circle50").transition().duration(1000)
+            d3.select("#circle50").transition().duration(400)
               .attr("fill", "red").each("end", animateback);
-            d3.select("#circle50").transition().duration(1000)
+            d3.select("#circle50").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
         case 7:
-            d3.select("#circle56").transition().duration(1000)
+            d3.select("#circle56").transition().duration(400)
               .attr("fill", "red").each("end", animateback);
-            d3.select("#circle56").transition().duration(1000)
+            d3.select("#circle56").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
         case 8:
-            d3.select("#circle32").transition().duration(1000)
+            d3.select("#circle32").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
         case 9:
-            d3.select("#circle56-9").transition().duration(1000)
+            d3.select("#circle56-9").transition().duration(400)
               .attr("fill", "white").each("end", animate);
           break;
 
@@ -768,10 +768,10 @@ function toggleNotes() {
 
 <ul>
 <li>Sensorica.co <a href='http://www.sensorica.co/' title=''><a href='http://www.sensorica.co/' title=''>http://www.sensorica.co/</a></a> - open hardware network;</li>
-<li>Metamaps.cc <a href='http://metamaps.cc/' title=''><a href='http://metamaps.cc/' title=''>http://metamaps.cc/</a></a></li>
+<li>Metamaps.cc <a href='http://metamaps.cc/' title=''><a href='http://metamaps.cc/' title=''>http://metamaps.cc/</a></a> - real-time sense-making software;</li>
 <li>&#8230;?</li>
 </ul></li>
-<li>There is no ready-made solution, but many tools, approaches and guidelines which should be adapted to specific circumstances;</li>
+<li>There are no ready-made solutions, but many tools, approaches and guidelines which should be adapted to specific circumstances;</li>
 </ul>
 
 </article></slide><slide class='segue dark nobackground'><hgroup class = 'auto-fadein'><h2>GBI-OVN</h2></hgroup><article  id="gbi-ovn">
