@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="634.20392"
+   height="423.03497"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gbi-ovn_synapses.svg"
+   inkscape:export-filename="/media/data/vveitas/repos/ovn_presentation/knowledge_exchange.png"
+   inkscape:export-xdpi="300.06024"
+   inkscape:export-ydpi="300.06024">
+  <metadata
+     id="metadata88">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs86" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1869"
+     inkscape:window-height="1056"
+     id="namedview84"
+     showgrid="false"
+     inkscape:zoom="1.3708333"
+     inkscape:cx="361.60899"
+     inkscape:cy="283.00119"
+     inkscape:window-x="1131"
+     inkscape:window-y="333"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <xhtml:defs
+     style="height:auto;overflow:visible;overflow-x:visible;overflow-y:visible;perspective-origin:50% 50%;transform-origin:50% 50%;width:auto;">
+    <xhtml:style
+       type="text/css"
+       style="display:none;height:auto;overflow:visible;overflow-x:visible;overflow-y:visible;perspective-origin:50% 50%;transform-origin:50% 50%;width:auto;" />
+  </xhtml:defs>
+  <g
+     transform="translate(2.1345713,80.38459)"
+     style="overflow:visible"
+     id="g4">
+    <path
+       inkscape:connector-curvature="0"
+       class="link"
+       d="m 222.64606,198.16455 c 0,50 0,50 0,100"
+       style="overflow:visible;fill:none;stroke:#ed5854;stroke-width:2px;stroke-opacity:1"
+       id="path4210" />
+    <path
+       inkscape:connector-curvature="0"
+       class="link"
+       d="m 353.61219,98.894036 c 0,49.635254 -130.77725,49.635254 -130.77725,99.270514"
+       style="overflow:visible;fill:none;stroke:#ed5854;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4212" />
+    <path
+       inkscape:connector-curvature="0"
+       class="link"
+       d="m 354.18,98.894036 c 0,85.446314 74.48487,85.446314 74.48487,170.892624"
+       style="overflow:visible;fill:none;stroke:#ed5854;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4214" />
+    <path
+       inkscape:connector-curvature="0"
+       class="link"
+       d="m 332.59176,9.6334255 c 0,33.7376985 20.07667,33.7376985 20.07667,67.4754005"
+       style="overflow:visible;fill:none;stroke:#ed5854;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4214-9" />
+    <path
+       inkscape:connector-curvature="0"
+       class="link"
+       d="m 88.40962,117.16152 c 0,79.54407 0,79.54407 0,159.08815"
+       style="overflow:visible;fill:none;stroke:#46af45;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4319" />
+    <rect
+       style="overflow:visible;opacity:0.5;fill:#806013;fill-opacity:0.20125786;stroke:none"
+       id="rect4216-3-5-2"
+       width="633.94598"
+       height="94.395531"
+       x="-2.134553"
+       y="248.25484" />
+    <rect
+       style="overflow:visible;opacity:0.5;fill:#005200;fill-opacity:0.53987732;stroke:none"
+       id="rect4216-3-5"
+       width="633.94598"
+       height="94.395531"
+       x="-2.1345546"
+       y="149.73271" />
+    <rect
+       style="overflow:visible;opacity:0.5;fill:#000053;fill-opacity:0.53987732;stroke:none"
+       id="rect4216-3"
+       width="633.94598"
+       height="90.268951"
+       x="-2.1345713"
+       y="53.273895" />
+    <rect
+       style="opacity:0.5;fill:#ab0000;fill-opacity:0.53987732;stroke:none"
+       id="rect4216"
+       width="633.94598"
+       height="80.984146"
+       x="-1.8766284"
+       y="-34.673851" />
+    <path
+       inkscape:connector-curvature="0"
+       class="link"
+       d="m 151.83816,31.699575 c 0,32.110248 -62.978928,32.110248 -62.978928,64.220499"
+       style="overflow:visible;fill:none;stroke:#46af45;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4212-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="453.07889"
+       y="8.6552448"
+       id="text4263"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4265"
+         x="453.07889"
+         y="8.6552448">Theoretical research</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="625.65399"
+       y="92.737579"
+       id="text4263-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4265-1"
+         x="630.86884"
+         y="92.737579">Mathematical </tspan><tspan
+         sodipodi:role="line"
+         x="625.65399"
+         y="111.48758"
+         id="tspan4285">foundations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="625.07568"
+       y="190.59662"
+       id="text4263-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4265-1-2"
+         x="630.29053"
+         y="190.59662">Computational </tspan><tspan
+         sodipodi:role="line"
+         x="625.07568"
+         y="209.34662"
+         id="tspan4285-1">foundations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;overflow:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="624.75208"
+       y="287.61789"
+       id="text4263-6-1-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="624.75208"
+         y="287.61789"
+         id="tspan4285-1-6">Experiments and</tspan><tspan
+         sodipodi:role="line"
+         x="624.75208"
+         y="306.36789"
+         id="tspan4331">implementations</tspan></text>
+    <g
+       class="node"
+       transform="translate(222.64606,309.1068)"
+       style="overflow:visible"
+       id="g4226">
+      <circle
+         cy="0"
+         cx="0"
+         r="10"
+         style="overflow:visible;fill:#ed5854;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+         id="circle4228" />
+      <a
+         xlink:href="https://ovn.globalbraininstitute.org/computational-foundations/software-frameworks/challprop-java"
+         target="_blank"
+         style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+         id="a4230">
+        <text
+           y="18"
+           dy="3.061697e-41"
+           style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+           id="text4232">Challprop-java</text>
+      </a>
+    </g>
+    <g
+       class="node"
+       transform="translate(428.05639,280.59616)"
+       style="overflow:visible"
+       id="g4218">
+      <circle
+         cy="0"
+         cx="0"
+         r="10"
+         style="overflow:visible;fill:#ed5854;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+         id="circle4220" />
+      <a
+         xlink:href="https://ovn.globalbraininstitute.org/computational-foundations/software-frameworks/challprop-matlab"
+         target="_blank"
+         style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+         id="a4222">
+        <text
+           y="18"
+           dy="3.061697e-41"
+           style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+           id="text4224">Challprop-matlab</text>
+      </a>
+    </g>
+    <g
+       class="node"
+       transform="translate(222.64606,198.16455)"
+       style="overflow:visible"
+       id="g4234">
+      <circle
+         cy="0"
+         cx="0"
+         r="10"
+         style="overflow:visible;fill:#ed5854;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+         id="circle4236" />
+      <a
+         xlink:href="https://ovn.globalbraininstitute.org/computational-foundations/software-architectures/challprop-01-software-architecture"
+         target="_blank"
+         style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+         id="a4238">
+        <text
+           y="-18"
+           dy="3.061697e-41"
+           style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+           id="text4240">Challprop 0.1 architecture (GBI Working Paper 2012-06)</text>
+      </a>
+    </g>
+    <g
+       class="node"
+       transform="translate(353.07159,88.68127)"
+       style="overflow:visible"
+       id="g4242">
+      <circle
+         cy="0"
+         cx="0"
+         r="10"
+         style="overflow:visible;fill:#ed5854;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+         id="circle4244" />
+      <a
+         xlink:href="https://ovn.globalbraininstitute.org/mathematical-foundations/challenge-propagation/foundations-mathematical-model"
+         target="_blank"
+         style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+         id="a4246">
+        <text
+           y="-18"
+           dy="3.061697e-41"
+           style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+           id="text4248">Foundations for a Mathematical Model (GBI WP 2012-05)</text>
+      </a>
+    </g>
+    <circle
+       id="circle4252"
+       style="overflow:visible;fill:#ed5854;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+       r="10"
+       cx="332.64606"
+       cy="-1.8354462" />
+    <a
+       id="a4254"
+       style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+       target="_blank"
+       xlink:href="https://ovn.globalbraininstitute.org/theoretical_research/challenge-propagation/challenge-propagation-new-paradigm-modeling-distributed"
+       transform="translate(332.64606,-1.8354462)">
+      <text
+         id="text4256"
+         style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+         dy="3.061697e-41"
+         y="-18">Heylighen F. (GBI WP 2012-01)</text>
+    </a>
+    <circle
+       r="10"
+       id="circle4252-9"
+       style="overflow:visible;fill:#ed5854;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+       cx="308.10858"
+       cy="-68.88459" />
+    <g
+       class="node"
+       transform="translate(88.62328,287.9214)"
+       style="overflow:visible"
+       id="g4323">
+      <circle
+         cy="0"
+         cx="0"
+         r="10"
+         style="overflow:visible;fill:#46af45;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+         id="circle4325" />
+      <a
+         xlink:href="https://ovn.globalbraininstitute.org/implementations/attentional-offer-networks"
+         target="_blank"
+         style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+         id="a4327">
+        <text
+           y="18"
+           dy="3.061697e-41"
+           style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+           id="text4329">AON @iCog</text>
+      </a>
+    </g>
+    <g
+       class="node"
+       transform="translate(88.474042,107.28758)"
+       style="overflow:visible"
+       id="g4331">
+      <circle
+         cy="0"
+         cx="0"
+         r="10"
+         style="overflow:visible;fill:#46af45;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+         id="circle4333" />
+      <a
+         xlink:href="https://ovn.globalbraininstitute.org/mathematical-foundations/offer-networks-private/matching-algorithm-attention-offer-networks"
+         target="_blank"
+         style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+         id="a4335">
+        <text
+           y="-18"
+           dy="3.061697e-41"
+           style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+           id="text4337">Matching Algorithm for AON</text>
+      </a>
+    </g>
+    <circle
+       id="circle4341"
+       style="overflow:visible;fill:#46af45;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+       r="10"
+       cx="151.65916"
+       cy="20.370876" />
+    <a
+       id="a4343"
+       style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+       target="_blank"
+       xlink:href="https://ovn.globalbraininstitute.org/theoretical_research/offer-networks/beyond-money-offer-networks-potential-infrastructure-post-money"
+       transform="translate(151.65916,20.370877)">
+      <text
+         id="text4345"
+         style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+         dy="3.061697e-41"
+         y="-18">Goertzel, Ben. 'Beyond Money:Offer Networks'</text>
+    </a>
+    <a
+       id="a4254-3"
+       style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+       target="_blank"
+       xlink:href="https://ovn.globalbraininstitute.org/chain/attentional-offer-networks"
+       transform="translate(122.02005,-67.270099)">
+      <g
+         id="g4550"
+         transform="translate(1.4589666,16.048633)">
+        <circle
+           cy="-15.474675"
+           cx="-87.46769"
+           r="10"
+           style="overflow:visible;fill:#46af45;fill-opacity:1;stroke:#4682b4;stroke-width:3px"
+           id="circle4341-8" />
+        <text
+           x="37.933132"
+           y="-12.164133"
+           style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+           id="text4256-2">Attentional Offer Networks Synapse</text>
+      </g>
+    </a>
+    <a
+       id="a4254-3-3"
+       style="color:#0000ee;text-decoration-color:#0000ee;overflow:visible"
+       target="_blank"
+       xlink:href="https://ovn.globalbraininstitute.org/chain/challenge-propagation"
+       transform="translate(434.02347,-69.458554)">
+      <g
+         id="g4550-0"
+         transform="translate(1.4589666,16.048633)">
+        <text
+           x="3.6474173"
+           y="-10.705167"
+           style="color:#0000ee;font-size:12px;line-height:14px;font-family:sans-serif;text-decoration-color:#0000ee;text-anchor:middle;overflow:visible"
+           id="text4256-2-9">Challenge Propagation Model Synapse</text>
+      </g>
+    </a>
+  </g>
+</svg>

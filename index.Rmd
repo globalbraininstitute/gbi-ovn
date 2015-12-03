@@ -217,6 +217,9 @@ First steps:
 
 ## Structure of the network
 
+<div class="centered">
+<img src="pictures/structure/gbi-ovn_synapses.svg" height=530px>
+</div>
 
 ## Medium for cooperation
 
