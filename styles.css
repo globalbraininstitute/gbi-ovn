@@ -47,6 +47,14 @@
     text-align: right;
 }
 
-#structure-of-the-network {
+#structure-of-the-network-2,
+#structure-of-the-network,
+#medium-of-cooperation {
     margin-top: 5px;
+}
+
+iframe {
+    background: none repeat scroll 0 0;
+    height: 530px;
+    width: 795px;
 }
