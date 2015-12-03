@@ -1,3 +1,4 @@
+
 animate = function() {
  d3.select(this).transition().duration(500)
    .attr("fill", "red");
@@ -7,9 +8,6 @@ animateback = function() {
    .attr("fill", "white");
 }
 
-</script>
-
-<script>
 var counter=0;
 function toggleStep() {
         counter++;
@@ -63,4 +61,3 @@ function toggleStep() {
           break;
     }
 };
-
