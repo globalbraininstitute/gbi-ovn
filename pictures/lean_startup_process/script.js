@@ -60,4 +60,4 @@ function toggleStep() {
           //Statements executed when none of the values match the value of the expression
           break;
     }
-};
+}
