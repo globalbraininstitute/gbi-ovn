@@ -13,13 +13,6 @@ output:
 subtitle: Bootstrapping the GBI Open Value Network
 ---
 
-## Outline
-
-1. Guiding principles
-1. Conceptual basis
-1. Proposal
-1. GBI-OVN
-
 # Motivation
 
 ## Why?
@@ -30,7 +23,7 @@ subtitle: Bootstrapping the GBI Open Value Network
   
 * This does not go easy:
     * We have a number of projects (both internally and externally) which revolve around the same ideas yet are somewhat isolated:
-        * Challange propagation, chemical organization theory, offer networks, FutureICT, Computing in the Web, Holomidal Collective Intelligence, Ceptr, etc...
+        * Challenge propagation, chemical organization theory, offer networks, FutureICT, Computing in the Web, Holomidal Collective Intelligence, Ceptr, etc...
 
 ## What?
 
@@ -161,7 +154,7 @@ Interdisciplinary research environments:
 
 # Open Value <br/>Networks
 
-## Framework for open collaboration...
+## A framework for open collaboration
 
 * Allows for:
     * Co-creation of value through large-scale collaboration;
@@ -221,19 +214,45 @@ First steps:
 <img src="pictures/structure/gbi-ovn_synapses.svg" height=530px>
 </div>
 
-## Medium for cooperation
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
+<div class="notes">
+<ul>
+<li>Value synapses self-organize during operation of the network;</li>
+<li>For financing purposes (and not only), synapses can be described as separate sub-projects;</li>
+</ul>
+</div>
 
+## Medium of cooperation
+
+[https://ovn.globalbraininstitute.org](https://ovn.globalbraininstitute.org)
+
+<button class="notesButton" onclick="toggleNotes()">notes</button> 
+<div class="notes">
+<ul>
+<li>Network governance - also a sub-project which could apply for financing;</li>
+</ul>
+</div>
+
+<div class="centered">
+<img src="pictures/ovn.globalbraininstitute.org.png" height=480px>
+</div>
+
+## Structure of the network (2)
+
+<iframe src="pictures/structure/gbi-ovn_synapses_included.svg" class="centered" frameborder="0" scrolling="no" id="iframe">
+</iframe> 
+
+## Vision
+
+* GBI-OVN: 
+    * is a value (scientific, monetary, otherwise) creation, sharing and distribution network based on the synergy of internal and external resources and people;
+    * aims at facilitating and governing the large scale collaboration towards developing The Global Brain theory and technologies;
+    * The network guides the self-organization of diverse expertise, knowledge, resources and financial sources (EU funds, commercial projects, philanthropy), people and ideas sharing the same broad vision.
+
+    
 ## Further steps
 
 * Acknowledge the shared understanding;
 * Define the project's governance;
 * Outline foreseeable scope of work required for the project;
 * Build, collaborate, suggest, search, integrate, experiment...
-
-## Vision
-
-<div style="font-size:120%">
-GBI-OVN is a value (scientific, monetary, otherwise) creation, sharing and distribution network based on the synergy of internal and external resources and people towards developing The Global Brain theory and technologies. 
-
-The network guides the self-organization of diverse expertise, knowledge, resources and financial sources (EU funds, commercial projects and philantropy), people and ideas sharing the same broad vision.
-</div>
