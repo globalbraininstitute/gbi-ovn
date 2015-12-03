@@ -218,9 +218,10 @@ First steps:
 <div class="notes">
 <ul>
 <li>Value synapses self-organize during operation of the network;</li>
-<li>For financing purposes (and not only), synapses can be described as separate sub-projects;</li>
+<li>For financing purposes (and not only), synapses can also be described as separate sub-projects;</li>
 </ul>
 </div>
+
 
 ## Medium of cooperation
 
@@ -237,10 +238,12 @@ First steps:
 <img src="pictures/ovn.globalbraininstitute.org.png" height=480px>
 </div>
 
+
 ## Structure of the network (2)
 
 <iframe src="pictures/structure/gbi-ovn_synapses_included.svg" class="centered" frameborder="0" scrolling="no" id="iframe">
 </iframe> 
+
 
 ## Vision
 
